@@ -1,0 +1,22 @@
+.header {
+  width: 100%;
+}
+
+nav {
+  border-top: 1px solid slategrey;
+  border-bottom: 1px solid slategrey;
+}
+
+.header-nav {
+  width: 80%;
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+}
+
+.header-navlink {
+  text-decoration: none;
+  color: black;
+  font-size: 1.5rem;
+  font-weight: 200;
+}
